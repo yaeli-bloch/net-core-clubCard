@@ -8,26 +8,31 @@ namespace neww.Controllers
     [ApiController]
     public class CustomerController : ControllerBase
     {
+        private readonly IDataContext? _context;
+        public CustomerController(IDataContext? context)
+        {
+            _context = context;
+        }
         // GET: api/<CustomerController>
         [HttpGet]
         public List<Customer> Get()
         {
-            return help.listCustomer;
+            return _context.listCustomer;
         }
 
         // GET api/<CustomerController>/5
         [HttpGet("customer/{id}")]
         public Customer Get(string id)
         {
-            return help.listCustomer.Find(customer=> customer.Id == id);
+            return _context.listCustomer.Find(customer=> customer.Id == id);
         }
 
         // POST api/<CustomerController>
         [HttpPost("/{id}/{name}/{phone}/{city}/{adress}")]
         public void Post(string id, string name, string phone, string city, string adress)
         {
-            Customer c = new Customer(id, name, phone, city, adress, new DateTime());            
-            help.listCustomer.Add(c);
+            Customer c = new Customer(id, name, phone, city, adress, new DateTime());
+            _context.listCustomer.Add(c);
         }
 
         // PUT api/<CustomerController>/5

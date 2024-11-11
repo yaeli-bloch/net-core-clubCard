@@ -8,30 +8,35 @@ namespace neww.Controllers
     [ApiController]
     public class WorkerController : ControllerBase
     {
+        private readonly IDataContext? _context;
+        public WorkerController(IDataContext? context)
+        {
+            _context = context;
+        }
         // GET: api/<WorkerController>
         [HttpGet]
         public List<Worker> Get()
         {
-            return help.listWorkers;
+            return _context.listWorkers;
         }
 
         // GET api/<WorkerController>/5
         [HttpGet("{id}")]
         public Worker Get(string id)
         {
-            return help.listWorkers.Find(work => work.Id == id);
+            return _context.listWorkers.Find(work => work.Id == id);
         }
         [HttpGet("point/{id}")]
         public int Getp(string id)
         {
-            return help.listWorkers.Find(work => work.Id == id).NumCustomer;
+            return _context.listWorkers.Find(work => work.Id == id).NumCustomer;
         }
 
         // POST api/<WorkerController>
         [HttpPost]
         public void Post([FromBody] Worker worker)
         {
-            help.listWorkers.Add(worker);
+            _context.listWorkers.Add(worker);
         }
 
         // PUT api/<WorkerController>/5

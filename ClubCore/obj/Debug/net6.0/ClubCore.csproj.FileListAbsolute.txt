@@ -1,0 +1,12 @@
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww\ClubCore\bin\Debug\net6.0\ClubCore.deps.json
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww\ClubCore\bin\Debug\net6.0\ClubCore.dll
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww\ClubCore\bin\Debug\net6.0\ClubCore.pdb
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww\ClubCore\obj\Debug\net6.0\ClubCore.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww\ClubCore\obj\Debug\net6.0\ClubCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww\ClubCore\obj\Debug\net6.0\ClubCore.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww\ClubCore\obj\Debug\net6.0\ClubCore.AssemblyInfo.cs
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww\ClubCore\obj\Debug\net6.0\ClubCore.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww\ClubCore\obj\Debug\net6.0\ClubCore.dll
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww\ClubCore\obj\Debug\net6.0\refint\ClubCore.dll
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww\ClubCore\obj\Debug\net6.0\ClubCore.pdb
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww\ClubCore\obj\Debug\net6.0\ref\ClubCore.dll

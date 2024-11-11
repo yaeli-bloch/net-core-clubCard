@@ -88,6 +88,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "ClubCore/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ClubCore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClubCore.dll": {}
+        }
       }
     }
   },
@@ -429,10 +439,16 @@
         "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "ClubCore/1.0.0": {
+      "type": "project",
+      "path": "../ClubCore/ClubCore.csproj",
+      "msbuildProject": "../ClubCore/ClubCore.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "ClubCore >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
   },
@@ -468,7 +484,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Users\\User\\Desktop\\יעלוש שנה ב'\\netcore\\neww\\ClubCore\\ClubCore.csproj": {
+              "projectPath": "D:\\Users\\User\\Desktop\\יעלוש שנה ב'\\netcore\\neww\\ClubCore\\ClubCore.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

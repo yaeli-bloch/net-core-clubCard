@@ -7,48 +7,61 @@ namespace neww.Controllers
     [Route("api/[controller]")]
     [ApiController]
     public class ClubCardController : ControllerBase
-    {                      
+    {
+        private readonly IDataContext _context;
+        public ClubCardController(IDataContext context)
+        {
+            _context=context;
+        }
         // GET: api/<ClubCardController>
         [HttpGet]
-        public List<Clubcard> Get()
+        public IEnumerable<Clubcard> Get()
         {
-            return help.ClubCards;
+            return _context.ClubCards;
         }
 
         // GET api/<ClubCardController>/5
         [HttpGet("customer/{id}")]
-        public Clubcard Get( string id)
+        public ActionResult Get(string id)
         {
-            return help.ClubCards.Find(club => club.Customer.Id == id);
+            Clubcard c1 = _context.ClubCards.Find(club => club.Customer.Id == id);
+            if (c1 == null)
+            {
+                return NotFound();
+            }
+            else
+            {
+                return Ok(c1);
+            }
         }
         [HttpGet("manager/{password}")]
         public List<Clubcard> Get(int password)
         {
-            if (password == help.PassWord)
-                return help.ClubCards; 
-           return new List<Clubcard>();
+            if (password == _context.PassWord)
+                return _context.ClubCards;
+            return new List<Clubcard>();
         }
-        // POST api/<ClubCardController>
+        //POST api/<ClubCardController>
         [HttpPost("/{id}/{name}/{phone}/{city}/{adress}/{worker}")]
         public void Post(string id,string name ,string phone,string city,string adress,string workerId)
         {
             Customer c = new Customer(id,name,phone,city,adress, new DateTime());
-            Clubcard newcard = new Clubcard(help.ClubCards.Count(),c,new DateTime());
-            foreach (var work in help.listWorkers)
+            Clubcard newcard = new Clubcard(_context.ClubCards.Count(),c,new DateTime());
+            foreach (var work in _context.listWorkers)
             {
               if(work.Id == id)
               {
                     work.NumCustomer++;
               }
             }
-            help.ClubCards.Add(newcard);
+            _context.ClubCards.Add(newcard);
         }
 
         // PUT api/<ClubCardController>/5
         [HttpPut("/{id}/{sum}")]
         public void Put( string id, double sum)
         {
-            Clubcard clubCard = help.ClubCards.Find(club => club.Customer.Id == id);
+            Clubcard clubCard = _context.ClubCards.Find(club => club.Customer.Id == id);
             if (clubCard != null)
             {
                 clubCard.NumPoint += (int)sum / 50;

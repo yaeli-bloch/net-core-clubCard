@@ -8,11 +8,16 @@ namespace neww.Controllers
     [ApiController]
     public class saleController : ControllerBase
     {
+        private readonly IDataContext? _context;
+        public saleController(IDataContext? context)
+        {
+            _context = context;
+        }
         // GET: api/<saleController>
         [HttpGet]
         public List<Sale> Get()
         {
-            return help.listSales;
+            return _context.listSales;
         }
 
         // GET api/<saleController>/5
@@ -26,9 +31,9 @@ namespace neww.Controllers
         [HttpPost("{password}")]
         public void Post(int password,[FromBody] Sale sale)
         {
-            if (password == help.PassWord)
+            if (password == _context.PassWord)
             {
-               help.listSales.Add(sale);
+                _context.listSales.Add(sale);
             }
             
         }
@@ -37,9 +42,9 @@ namespace neww.Controllers
         [HttpPut("{id}/{password}")]
         public void Put(int id,int password, [FromBody] Sale sale)
         {
-          if(password == help.PassWord)
+          if(password == _context.PassWord)
             {
-              Sale s1 = help.listSales.Find(sale => sale.Id == id);
+              Sale s1 = _context.listSales.Find(sale => sale.Id == id);
                 if (s1 != null)
                 {
                     s1.Start = sale.Start; 
@@ -54,7 +59,7 @@ namespace neww.Controllers
         [HttpDelete("{id}/{password}")]
         public void Delete(int id,int password)
         {
-            Sale s1 = help.listSales.Find(sale => sale.Id == id);
+            Sale s1 = _context.listSales.Find(sale => sale.Id == id);
             if (s1 != null)
             {
                 s1.Status = false;

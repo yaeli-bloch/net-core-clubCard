@@ -30,3 +30,5 @@ D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww\neww\obj\Debug\net6.0\r
 D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww\neww\obj\Debug\net6.0\neww.pdb
 D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww\neww\obj\Debug\net6.0\neww.genruntimeconfig.cache
 D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww\neww\obj\Debug\net6.0\ref\neww.dll
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww\neww\bin\Debug\net6.0\ClubCore.dll
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww\neww\bin\Debug\net6.0\ClubCore.pdb
