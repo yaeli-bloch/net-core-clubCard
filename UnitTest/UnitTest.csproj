@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\neww\neww.csproj" />
+    <ProjectReference Include="..\Club.ApiNew\Club.ApiNew.csproj" />
   </ItemGroup>
 
 </Project>

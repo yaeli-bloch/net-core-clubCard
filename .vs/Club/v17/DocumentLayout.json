@@ -1,0 +1,463 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\neww\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9953B6EF-91BD-48F5-9B2B-454A6B534E2B}|Club.ApiNew\\Club.ApiNew.csproj|e:\\neww\\club.apinew\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9953B6EF-91BD-48F5-9B2B-454A6B534E2B}|Club.ApiNew\\Club.ApiNew.csproj|solutionrelative:club.apinew\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/sample_db/True/SqlTable/dbo.ClubCards.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9953B6EF-91BD-48F5-9B2B-454A6B534E2B}|Club.ApiNew\\Club.ApiNew.csproj|e:\\neww\\club.apinew\\controllers\\clubcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9953B6EF-91BD-48F5-9B2B-454A6B534E2B}|Club.ApiNew\\Club.ApiNew.csproj|solutionrelative:club.apinew\\controllers\\clubcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9953B6EF-91BD-48F5-9B2B-454A6B534E2B}|Club.ApiNew\\Club.ApiNew.csproj|e:\\neww\\club.apinew\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9953B6EF-91BD-48F5-9B2B-454A6B534E2B}|Club.ApiNew\\Club.ApiNew.csproj|solutionrelative:club.apinew\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9953B6EF-91BD-48F5-9B2B-454A6B534E2B}|Club.ApiNew\\Club.ApiNew.csproj|e:\\neww\\club.apinew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9953B6EF-91BD-48F5-9B2B-454A6B534E2B}|Club.ApiNew\\Club.ApiNew.csproj|solutionrelative:club.apinew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8837AEF-3C93-4AF8-9A86-E52E031F003E}|Club.Data\\Club.Data.csproj|e:\\neww\\club.data\\club.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8837AEF-3C93-4AF8-9A86-E52E031F003E}|Club.Data\\Club.Data.csproj|solutionrelative:club.data\\club.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8837AEF-3C93-4AF8-9A86-E52E031F003E}|Club.Data\\Club.Data.csproj|e:\\neww\\club.data\\repositories\\clubcardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8837AEF-3C93-4AF8-9A86-E52E031F003E}|Club.Data\\Club.Data.csproj|solutionrelative:club.data\\repositories\\clubcardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB792C88-BBBE-465E-B6DF-5681BD520996}|ClubCore\\Club.Core.csproj|e:\\neww\\clubcore\\repositories\\iclubcardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB792C88-BBBE-465E-B6DF-5681BD520996}|ClubCore\\Club.Core.csproj|solutionrelative:clubcore\\repositories\\iclubcardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9953B6EF-91BD-48F5-9B2B-454A6B534E2B}|Club.ApiNew\\Club.ApiNew.csproj|e:\\neww\\club.apinew\\club.apinew.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9953B6EF-91BD-48F5-9B2B-454A6B534E2B}|Club.ApiNew\\Club.ApiNew.csproj|solutionrelative:club.apinew\\club.apinew.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/sample_db/True/SqlTable/dbo.__EFMigrationsHistory.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB792C88-BBBE-465E-B6DF-5681BD520996}|ClubCore\\Club.Core.csproj|e:\\neww\\clubcore\\club.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB792C88-BBBE-465E-B6DF-5681BD520996}|ClubCore\\Club.Core.csproj|solutionrelative:clubcore\\club.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D7E84B-E7C6-4455-A944-379B6A1BAD45}|Club.Service\\Club.Service.csproj|e:\\neww\\club.service\\club.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{76D7E84B-E7C6-4455-A944-379B6A1BAD45}|Club.Service\\Club.Service.csproj|solutionrelative:club.service\\club.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB792C88-BBBE-465E-B6DF-5681BD520996}|ClubCore\\Club.Core.csproj|e:\\neww\\clubcore\\repositories\\idatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB792C88-BBBE-465E-B6DF-5681BD520996}|ClubCore\\Club.Core.csproj|solutionrelative:clubcore\\repositories\\idatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB792C88-BBBE-465E-B6DF-5681BD520996}|ClubCore\\Club.Core.csproj|e:\\neww\\clubcore\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB792C88-BBBE-465E-B6DF-5681BD520996}|ClubCore\\Club.Core.csproj|solutionrelative:clubcore\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB792C88-BBBE-465E-B6DF-5681BD520996}|ClubCore\\Club.Core.csproj|e:\\neww\\clubcore\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB792C88-BBBE-465E-B6DF-5681BD520996}|ClubCore\\Club.Core.csproj|solutionrelative:clubcore\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB792C88-BBBE-465E-B6DF-5681BD520996}|ClubCore\\Club.Core.csproj|e:\\neww\\clubcore\\models\\clubcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB792C88-BBBE-465E-B6DF-5681BD520996}|ClubCore\\Club.Core.csproj|solutionrelative:clubcore\\models\\clubcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8837AEF-3C93-4AF8-9A86-E52E031F003E}|Club.Data\\Club.Data.csproj|e:\\neww\\club.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8837AEF-3C93-4AF8-9A86-E52E031F003E}|Club.Data\\Club.Data.csproj|solutionrelative:club.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB792C88-BBBE-465E-B6DF-5681BD520996}|ClubCore\\Club.Core.csproj|e:\\neww\\clubcore\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB792C88-BBBE-465E-B6DF-5681BD520996}|ClubCore\\Club.Core.csproj|solutionrelative:clubcore\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E562BEB-7333-4856-A356-EC8C2E5908F9}|UnitTest\\UnitTest.csproj|e:\\neww\\unittest\\eventcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E562BEB-7333-4856-A356-EC8C2E5908F9}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\eventcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E562BEB-7333-4856-A356-EC8C2E5908F9}|UnitTest\\UnitTest.csproj|e:\\neww\\unittest\\fakecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E562BEB-7333-4856-A356-EC8C2E5908F9}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\fakecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\User\\Desktop\\\u05D9\u05E2\u05DC\u05D5\u05E9 \u05E9\u05E0\u05D4 \u05D1\u0027\\netcore\\neww\\neww\\IDataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\User\\Desktop\\\u05D9\u05E2\u05DC\u05D5\u05E9 \u05E9\u05E0\u05D4 \u05D1\u0027\\netcore\\neww\\neww\\DataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\User\\Desktop\\\u05D9\u05E2\u05DC\u05D5\u05E9 \u05E9\u05E0\u05D4 \u05D1\u0027\\netcore\\neww\\neww\\Clubcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\neww\\neww\\Controllers\\ClubCardController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:neww\\Controllers\\ClubCardController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\neww\\neww\\Controllers\\WorkerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:neww\\Controllers\\WorkerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\neww\\neww\\Controllers\\saleController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:neww\\Controllers\\saleController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\neww\\neww\\Controllers\\CustomerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:neww\\Controllers\\CustomerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\neww\\neww\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:neww\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "saleController.cs",
+              "DocumentMoniker": "E:\\neww\\Club.ApiNew\\Controllers\\saleController.cs",
+              "RelativeDocumentMoniker": "Club.ApiNew\\Controllers\\saleController.cs",
+              "ToolTip": "E:\\neww\\Club.ApiNew\\Controllers\\saleController.cs",
+              "RelativeToolTip": "Club.ApiNew\\Controllers\\saleController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAcwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:43:26.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "E:\\neww\\Club.ApiNew\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Club.ApiNew\\Controllers\\CustomerController.cs",
+              "ToolTip": "E:\\neww\\Club.ApiNew\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Club.ApiNew\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:43:16.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClubCardController.cs",
+              "DocumentMoniker": "E:\\neww\\Club.ApiNew\\Controllers\\ClubCardController.cs",
+              "RelativeDocumentMoniker": "Club.ApiNew\\Controllers\\ClubCardController.cs",
+              "ToolTip": "E:\\neww\\Club.ApiNew\\Controllers\\ClubCardController.cs",
+              "RelativeToolTip": "Club.ApiNew\\Controllers\\ClubCardController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAADgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:43:05.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.ClubCards [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/sample_db/True/SqlTable/dbo.ClubCards.sql",
+              "ToolTip": "dbo.ClubCards [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-12T09:41:10.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.__EFMigrationsHistory [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/sample_db/True/SqlTable/dbo.__EFMigrationsHistory.sql",
+              "ToolTip": "dbo.__EFMigrationsHistory [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-12T09:40:51.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Club.ApiNew.csproj",
+              "DocumentMoniker": "E:\\neww\\Club.ApiNew\\Club.ApiNew.csproj",
+              "RelativeDocumentMoniker": "Club.ApiNew\\Club.ApiNew.csproj",
+              "ToolTip": "E:\\neww\\Club.ApiNew\\Club.ApiNew.csproj",
+              "RelativeToolTip": "Club.ApiNew\\Club.ApiNew.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T10:19:02.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\neww\\Club.ApiNew\\Program.cs",
+              "RelativeDocumentMoniker": "Club.ApiNew\\Program.cs",
+              "ToolTip": "E:\\neww\\Club.ApiNew\\Program.cs",
+              "RelativeToolTip": "Club.ApiNew\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:07:13.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IClubCardRepository.cs",
+              "DocumentMoniker": "E:\\neww\\ClubCore\\Repositories\\IClubCardRepository.cs",
+              "RelativeDocumentMoniker": "ClubCore\\Repositories\\IClubCardRepository.cs",
+              "ToolTip": "E:\\neww\\ClubCore\\Repositories\\IClubCardRepository.cs",
+              "RelativeToolTip": "ClubCore\\Repositories\\IClubCardRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:13:49.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClubCardRepository.cs",
+              "DocumentMoniker": "E:\\neww\\Club.Data\\Repositories\\ClubCardRepository.cs",
+              "RelativeDocumentMoniker": "Club.Data\\Repositories\\ClubCardRepository.cs",
+              "ToolTip": "E:\\neww\\Club.Data\\Repositories\\ClubCardRepository.cs",
+              "RelativeToolTip": "Club.Data\\Repositories\\ClubCardRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:58:29.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Club.Data.csproj",
+              "DocumentMoniker": "E:\\neww\\Club.Data\\Club.Data.csproj",
+              "RelativeDocumentMoniker": "Club.Data\\Club.Data.csproj",
+              "ToolTip": "E:\\neww\\Club.Data\\Club.Data.csproj",
+              "RelativeToolTip": "Club.Data\\Club.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T09:47:02.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "E:\\neww\\Club.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Club.Data\\DataContext.cs",
+              "ToolTip": "E:\\neww\\Club.Data\\DataContext.cs",
+              "RelativeToolTip": "Club.Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:33:38.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Clubcard.cs",
+              "DocumentMoniker": "E:\\neww\\ClubCore\\Models\\Clubcard.cs",
+              "RelativeDocumentMoniker": "ClubCore\\Models\\Clubcard.cs",
+              "ToolTip": "E:\\neww\\ClubCore\\Models\\Clubcard.cs",
+              "RelativeToolTip": "ClubCore\\Models\\Clubcard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:56:14.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\neww\\ClubCore\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ClubCore\\Models\\Customer.cs",
+              "ToolTip": "E:\\neww\\ClubCore\\Models\\Customer.cs",
+              "RelativeToolTip": "ClubCore\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:56:14.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Club.Core.csproj",
+              "DocumentMoniker": "E:\\neww\\ClubCore\\Club.Core.csproj",
+              "RelativeDocumentMoniker": "ClubCore\\Club.Core.csproj",
+              "ToolTip": "E:\\neww\\ClubCore\\Club.Core.csproj",
+              "RelativeToolTip": "ClubCore\\Club.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T08:56:14.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Club.Service.csproj",
+              "DocumentMoniker": "E:\\neww\\Club.Service\\Club.Service.csproj",
+              "RelativeDocumentMoniker": "Club.Service\\Club.Service.csproj",
+              "ToolTip": "E:\\neww\\Club.Service\\Club.Service.csproj",
+              "RelativeToolTip": "Club.Service\\Club.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T10:44:34.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "E:\\neww\\ClubCore\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "ClubCore\\Models\\Sale.cs",
+              "ToolTip": "E:\\neww\\ClubCore\\Models\\Sale.cs",
+              "RelativeToolTip": "ClubCore\\Models\\Sale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:56:14.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDataContext.cs",
+              "DocumentMoniker": "E:\\neww\\ClubCore\\Repositories\\IDataContext.cs",
+              "RelativeDocumentMoniker": "ClubCore\\Repositories\\IDataContext.cs",
+              "ToolTip": "E:\\neww\\ClubCore\\Repositories\\IDataContext.cs",
+              "RelativeToolTip": "ClubCore\\Repositories\\IDataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:56:14.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClubCardController.cs",
+              "DocumentMoniker": "E:\\neww\\neww\\Controllers\\ClubCardController.cs",
+              "RelativeDocumentMoniker": "neww\\Controllers\\ClubCardController.cs",
+              "ToolTip": "E:\\neww\\neww\\Controllers\\ClubCardController.cs",
+              "RelativeToolTip": "neww\\Controllers\\ClubCardController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:56:14.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WorkerController.cs",
+              "DocumentMoniker": "E:\\neww\\neww\\Controllers\\WorkerController.cs",
+              "RelativeDocumentMoniker": "neww\\Controllers\\WorkerController.cs",
+              "ToolTip": "E:\\neww\\neww\\Controllers\\WorkerController.cs",
+              "RelativeToolTip": "neww\\Controllers\\WorkerController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:56:14.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "E:\\neww\\ClubCore\\Models\\Worker.cs",
+              "RelativeDocumentMoniker": "ClubCore\\Models\\Worker.cs",
+              "ToolTip": "E:\\neww\\ClubCore\\Models\\Worker.cs",
+              "RelativeToolTip": "ClubCore\\Models\\Worker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:56:14.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "saleController.cs",
+              "DocumentMoniker": "E:\\neww\\neww\\Controllers\\saleController.cs",
+              "RelativeDocumentMoniker": "neww\\Controllers\\saleController.cs",
+              "ToolTip": "E:\\neww\\neww\\Controllers\\saleController.cs",
+              "RelativeToolTip": "neww\\Controllers\\saleController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:56:14.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "E:\\neww\\neww\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "neww\\Controllers\\CustomerController.cs",
+              "ToolTip": "E:\\neww\\neww\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "neww\\Controllers\\CustomerController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:56:14.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EventControllerTest.cs",
+              "DocumentMoniker": "E:\\neww\\UnitTest\\EventControllerTest.cs",
+              "RelativeDocumentMoniker": "UnitTest\\EventControllerTest.cs",
+              "ToolTip": "E:\\neww\\UnitTest\\EventControllerTest.cs",
+              "RelativeToolTip": "UnitTest\\EventControllerTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:56:14.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\neww\\neww\\Program.cs",
+              "RelativeDocumentMoniker": "neww\\Program.cs",
+              "ToolTip": "E:\\neww\\neww\\Program.cs",
+              "RelativeToolTip": "neww\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:56:14.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FakeContext.cs",
+              "DocumentMoniker": "E:\\neww\\UnitTest\\FakeContext.cs",
+              "RelativeDocumentMoniker": "UnitTest\\FakeContext.cs",
+              "ToolTip": "E:\\neww\\UnitTest\\FakeContext.cs",
+              "RelativeToolTip": "UnitTest\\FakeContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wBYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:56:14.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Desktop\\\u05D9\u05E2\u05DC\u05D5\u05E9 \u05E9\u05E0\u05D4 \u05D1\u0027\\netcore\\neww\\neww\\DataContext.cs",
+              "ToolTip": "D:\\Users\\User\\Desktop\\\u05D9\u05E2\u05DC\u05D5\u05E9 \u05E9\u05E0\u05D4 \u05D1\u0027\\netcore\\neww\\neww\\DataContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T23:39:14.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IDataContext.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Desktop\\\u05D9\u05E2\u05DC\u05D5\u05E9 \u05E9\u05E0\u05D4 \u05D1\u0027\\netcore\\neww\\neww\\IDataContext.cs",
+              "ToolTip": "D:\\Users\\User\\Desktop\\\u05D9\u05E2\u05DC\u05D5\u05E9 \u05E9\u05E0\u05D4 \u05D1\u0027\\netcore\\neww\\neww\\IDataContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T23:39:14.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Clubcard.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Desktop\\\u05D9\u05E2\u05DC\u05D5\u05E9 \u05E9\u05E0\u05D4 \u05D1\u0027\\netcore\\neww\\neww\\Clubcard.cs",
+              "ToolTip": "D:\\Users\\User\\Desktop\\\u05D9\u05E2\u05DC\u05D5\u05E9 \u05E9\u05E0\u05D4 \u05D1\u0027\\netcore\\neww\\neww\\Clubcard.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T23:39:14.143Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+E:\neww\Club.Data\obj\Debug\net6.0\Club.Data.csproj.AssemblyReference.cache
+E:\neww\Club.Data\obj\Debug\net6.0\Club.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\neww\Club.Data\obj\Debug\net6.0\Club.Data.AssemblyInfoInputs.cache
+E:\neww\Club.Data\obj\Debug\net6.0\Club.Data.AssemblyInfo.cs
+E:\neww\Club.Data\obj\Debug\net6.0\Club.Data.csproj.CoreCompileInputs.cache
+E:\neww\Club.Data\bin\Debug\net6.0\Club.Data.deps.json
+E:\neww\Club.Data\bin\Debug\net6.0\Club.Data.dll
+E:\neww\Club.Data\bin\Debug\net6.0\Club.Data.pdb
+E:\neww\Club.Data\bin\Debug\net6.0\Club.Core.dll
+E:\neww\Club.Data\bin\Debug\net6.0\Club.Core.pdb
+E:\neww\Club.Data\obj\Debug\net6.0\Club.Data.dll
+E:\neww\Club.Data\obj\Debug\net6.0\refint\Club.Data.dll
+E:\neww\Club.Data\obj\Debug\net6.0\Club.Data.pdb
+E:\neww\Club.Data\obj\Debug\net6.0\ref\Club.Data.dll
+E:\neww\Club.Data\bin\Debug\net6.0\Club.Data.runtimeconfig.json
+E:\neww\Club.Data\obj\Debug\net6.0\Club.Data.genruntimeconfig.cache
+F:\neww\Club.Data\bin\Debug\net6.0\Club.Data.deps.json
+F:\neww\Club.Data\bin\Debug\net6.0\Club.Data.runtimeconfig.json
+F:\neww\Club.Data\bin\Debug\net6.0\Club.Data.dll
+F:\neww\Club.Data\bin\Debug\net6.0\Club.Data.pdb
+F:\neww\Club.Data\bin\Debug\net6.0\Club.Core.dll
+F:\neww\Club.Data\bin\Debug\net6.0\Club.Core.pdb
+F:\neww\Club.Data\obj\Debug\net6.0\Club.Data.csproj.AssemblyReference.cache
+F:\neww\Club.Data\obj\Debug\net6.0\Club.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\neww\Club.Data\obj\Debug\net6.0\Club.Data.AssemblyInfoInputs.cache
+F:\neww\Club.Data\obj\Debug\net6.0\Club.Data.AssemblyInfo.cs
+F:\neww\Club.Data\obj\Debug\net6.0\Club.Data.csproj.CoreCompileInputs.cache
+F:\neww\Club.Data\obj\Debug\net6.0\Club.Data.csproj.CopyComplete
+F:\neww\Club.Data\obj\Debug\net6.0\Club.Data.dll
+F:\neww\Club.Data\obj\Debug\net6.0\refint\Club.Data.dll
+F:\neww\Club.Data\obj\Debug\net6.0\Club.Data.pdb
+F:\neww\Club.Data\obj\Debug\net6.0\Club.Data.genruntimeconfig.cache
+F:\neww\Club.Data\obj\Debug\net6.0\ref\Club.Data.dll
+E:\neww\Club.Data\obj\Debug\net6.0\Club.Data.csproj.CopyComplete
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Data\bin\Debug\net6.0\Club.Data.deps.json
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Data\bin\Debug\net6.0\Club.Data.runtimeconfig.json
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Data\bin\Debug\net6.0\Club.Data.dll
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Data\bin\Debug\net6.0\Club.Data.pdb
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Data\bin\Debug\net6.0\Club.Core.dll
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Data\bin\Debug\net6.0\Club.Core.pdb
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Data\obj\Debug\net6.0\Club.Data.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Data\obj\Debug\net6.0\Club.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Data\obj\Debug\net6.0\Club.Data.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Data\obj\Debug\net6.0\Club.Data.AssemblyInfo.cs
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Data\obj\Debug\net6.0\Club.Data.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Data\obj\Debug\net6.0\Club.Data.csproj.CopyComplete
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Data\obj\Debug\net6.0\Club.Data.dll
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Data\obj\Debug\net6.0\refint\Club.Data.dll
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Data\obj\Debug\net6.0\Club.Data.pdb
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Data\obj\Debug\net6.0\Club.Data.genruntimeconfig.cache
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Data\obj\Debug\net6.0\ref\Club.Data.dll

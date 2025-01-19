@@ -1,0 +1,51 @@
+E:\neww\Club.Service\bin\Debug\net6.0\Club.Service.deps.json
+E:\neww\Club.Service\bin\Debug\net6.0\Club.Service.dll
+E:\neww\Club.Service\bin\Debug\net6.0\Club.Service.pdb
+E:\neww\Club.Service\bin\Debug\net6.0\Club.Core.dll
+E:\neww\Club.Service\bin\Debug\net6.0\Club.Core.pdb
+E:\neww\Club.Service\obj\Debug\net6.0\Club.Service.csproj.AssemblyReference.cache
+E:\neww\Club.Service\obj\Debug\net6.0\Club.Service.Properties.Resources.resources
+E:\neww\Club.Service\obj\Debug\net6.0\Club.Service.csproj.GenerateResource.cache
+E:\neww\Club.Service\obj\Debug\net6.0\Club.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\neww\Club.Service\obj\Debug\net6.0\Club.Service.AssemblyInfoInputs.cache
+E:\neww\Club.Service\obj\Debug\net6.0\Club.Service.AssemblyInfo.cs
+E:\neww\Club.Service\obj\Debug\net6.0\Club.Service.csproj.CoreCompileInputs.cache
+E:\neww\Club.Service\obj\Debug\net6.0\Club.Service.dll
+E:\neww\Club.Service\obj\Debug\net6.0\refint\Club.Service.dll
+E:\neww\Club.Service\obj\Debug\net6.0\Club.Service.pdb
+E:\neww\Club.Service\obj\Debug\net6.0\ref\Club.Service.dll
+F:\neww\Club.Service\bin\Debug\net6.0\Club.Service.deps.json
+F:\neww\Club.Service\bin\Debug\net6.0\Club.Service.dll
+F:\neww\Club.Service\bin\Debug\net6.0\Club.Service.pdb
+F:\neww\Club.Service\bin\Debug\net6.0\Club.Core.dll
+F:\neww\Club.Service\bin\Debug\net6.0\Club.Core.pdb
+F:\neww\Club.Service\obj\Debug\net6.0\Club.Service.csproj.AssemblyReference.cache
+F:\neww\Club.Service\obj\Debug\net6.0\Club.Service.Properties.Resources.resources
+F:\neww\Club.Service\obj\Debug\net6.0\Club.Service.csproj.GenerateResource.cache
+F:\neww\Club.Service\obj\Debug\net6.0\Club.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\neww\Club.Service\obj\Debug\net6.0\Club.Service.AssemblyInfoInputs.cache
+F:\neww\Club.Service\obj\Debug\net6.0\Club.Service.AssemblyInfo.cs
+F:\neww\Club.Service\obj\Debug\net6.0\Club.Service.csproj.CoreCompileInputs.cache
+F:\neww\Club.Service\obj\Debug\net6.0\Club.Service.csproj.CopyComplete
+F:\neww\Club.Service\obj\Debug\net6.0\Club.Service.dll
+F:\neww\Club.Service\obj\Debug\net6.0\refint\Club.Service.dll
+F:\neww\Club.Service\obj\Debug\net6.0\Club.Service.pdb
+F:\neww\Club.Service\obj\Debug\net6.0\ref\Club.Service.dll
+E:\neww\Club.Service\obj\Debug\net6.0\Club.Service.csproj.CopyComplete
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Service\bin\Debug\net6.0\Club.Service.deps.json
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Service\bin\Debug\net6.0\Club.Service.dll
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Service\bin\Debug\net6.0\Club.Service.pdb
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Service\bin\Debug\net6.0\Club.Core.dll
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Service\bin\Debug\net6.0\Club.Core.pdb
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Service\obj\Debug\net6.0\Club.Service.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Service\obj\Debug\net6.0\Club.Service.Properties.Resources.resources
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Service\obj\Debug\net6.0\Club.Service.csproj.GenerateResource.cache
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Service\obj\Debug\net6.0\Club.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Service\obj\Debug\net6.0\Club.Service.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Service\obj\Debug\net6.0\Club.Service.AssemblyInfo.cs
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Service\obj\Debug\net6.0\Club.Service.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Service\obj\Debug\net6.0\Club.Service.csproj.CopyComplete
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Service\obj\Debug\net6.0\Club.Service.dll
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Service\obj\Debug\net6.0\refint\Club.Service.dll
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Service\obj\Debug\net6.0\Club.Service.pdb
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\Club.Service\obj\Debug\net6.0\ref\Club.Service.dll

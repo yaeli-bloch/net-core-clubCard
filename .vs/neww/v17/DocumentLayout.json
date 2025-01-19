@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\neww\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCF5AF6-3930-41D2-BF4A-19593CB9F2E0}|neww\\neww.csproj|e:\\neww\\neww\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCF5AF6-3930-41D2-BF4A-19593CB9F2E0}|neww\\neww.csproj|solutionrelative:neww\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCF5AF6-3930-41D2-BF4A-19593CB9F2E0}|neww\\neww.csproj|e:\\neww\\neww\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCF5AF6-3930-41D2-BF4A-19593CB9F2E0}|neww\\neww.csproj|solutionrelative:neww\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCF5AF6-3930-41D2-BF4A-19593CB9F2E0}|neww\\neww.csproj|e:\\neww\\neww\\controllers\\clubcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCF5AF6-3930-41D2-BF4A-19593CB9F2E0}|neww\\neww.csproj|solutionrelative:neww\\controllers\\clubcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCF5AF6-3930-41D2-BF4A-19593CB9F2E0}|neww\\neww.csproj|e:\\neww\\neww\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCF5AF6-3930-41D2-BF4A-19593CB9F2E0}|neww\\neww.csproj|solutionrelative:neww\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCF5AF6-3930-41D2-BF4A-19593CB9F2E0}|neww\\neww.csproj|e:\\neww\\neww\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCF5AF6-3930-41D2-BF4A-19593CB9F2E0}|neww\\neww.csproj|solutionrelative:neww\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\neww\\neww\\Worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:neww\\Worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\neww\\neww\\Sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:neww\\Sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\neww\\neww\\help.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:neww\\help.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\neww\\neww\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:neww\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\neww\\neww\\Clubcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:neww\\Clubcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkerController.cs",
+              "DocumentMoniker": "E:\\neww\\neww\\Controllers\\WorkerController.cs",
+              "RelativeDocumentMoniker": "neww\\Controllers\\WorkerController.cs",
+              "ToolTip": "E:\\neww\\neww\\Controllers\\WorkerController.cs",
+              "RelativeToolTip": "neww\\Controllers\\WorkerController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwCYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:01:05.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "E:\\neww\\neww\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "neww\\Controllers\\CustomerController.cs",
+              "ToolTip": "E:\\neww\\neww\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "neww\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:01:06.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "E:\\neww\\neww\\Worker.cs",
+              "RelativeDocumentMoniker": "neww\\Worker.cs",
+              "ToolTip": "E:\\neww\\neww\\Worker.cs",
+              "RelativeToolTip": "neww\\Worker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:54:21.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "saleController.cs",
+              "DocumentMoniker": "E:\\neww\\neww\\Controllers\\saleController.cs",
+              "RelativeDocumentMoniker": "neww\\Controllers\\saleController.cs",
+              "ToolTip": "E:\\neww\\neww\\Controllers\\saleController.cs",
+              "RelativeToolTip": "neww\\Controllers\\saleController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:01:06.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "E:\\neww\\neww\\Sale.cs",
+              "RelativeDocumentMoniker": "neww\\Sale.cs",
+              "ToolTip": "E:\\neww\\neww\\Sale.cs",
+              "RelativeToolTip": "neww\\Sale.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:54:21.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "help.cs",
+              "DocumentMoniker": "E:\\neww\\neww\\help.cs",
+              "RelativeDocumentMoniker": "neww\\help.cs",
+              "ToolTip": "E:\\neww\\neww\\help.cs",
+              "RelativeToolTip": "neww\\help.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:54:21.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\neww\\neww\\Customer.cs",
+              "RelativeDocumentMoniker": "neww\\Customer.cs",
+              "ToolTip": "E:\\neww\\neww\\Customer.cs",
+              "RelativeToolTip": "neww\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:54:21.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Clubcard.cs",
+              "DocumentMoniker": "E:\\neww\\neww\\Clubcard.cs",
+              "RelativeDocumentMoniker": "neww\\Clubcard.cs",
+              "ToolTip": "E:\\neww\\neww\\Clubcard.cs",
+              "RelativeToolTip": "neww\\Clubcard.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:54:21.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClubCardController.cs",
+              "DocumentMoniker": "E:\\neww\\neww\\Controllers\\ClubCardController.cs",
+              "RelativeDocumentMoniker": "neww\\Controllers\\ClubCardController.cs",
+              "ToolTip": "E:\\neww\\neww\\Controllers\\ClubCardController.cs",
+              "RelativeToolTip": "neww\\Controllers\\ClubCardController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwDAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:01:06.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\neww\\neww\\Program.cs",
+              "RelativeDocumentMoniker": "neww\\Program.cs",
+              "ToolTip": "E:\\neww\\neww\\Program.cs",
+              "RelativeToolTip": "neww\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:01:06.801Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

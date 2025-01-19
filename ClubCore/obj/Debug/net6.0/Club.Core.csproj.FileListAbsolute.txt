@@ -1,0 +1,36 @@
+E:\neww\ClubCore\bin\Debug\net6.0\Club.Core.deps.json
+E:\neww\ClubCore\bin\Debug\net6.0\Club.Core.dll
+E:\neww\ClubCore\bin\Debug\net6.0\Club.Core.pdb
+E:\neww\ClubCore\obj\Debug\net6.0\Club.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\neww\ClubCore\obj\Debug\net6.0\Club.Core.AssemblyInfoInputs.cache
+E:\neww\ClubCore\obj\Debug\net6.0\Club.Core.AssemblyInfo.cs
+E:\neww\ClubCore\obj\Debug\net6.0\Club.Core.csproj.CoreCompileInputs.cache
+E:\neww\ClubCore\obj\Debug\net6.0\Club.Core.dll
+E:\neww\ClubCore\obj\Debug\net6.0\refint\Club.Core.dll
+E:\neww\ClubCore\obj\Debug\net6.0\Club.Core.pdb
+E:\neww\ClubCore\obj\Debug\net6.0\ref\Club.Core.dll
+E:\neww\ClubCore\obj\Debug\net6.0\Club.Core.csproj.AssemblyReference.cache
+F:\neww\ClubCore\bin\Debug\net6.0\Club.Core.deps.json
+F:\neww\ClubCore\bin\Debug\net6.0\Club.Core.dll
+F:\neww\ClubCore\bin\Debug\net6.0\Club.Core.pdb
+F:\neww\ClubCore\obj\Debug\net6.0\Club.Core.csproj.AssemblyReference.cache
+F:\neww\ClubCore\obj\Debug\net6.0\Club.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\neww\ClubCore\obj\Debug\net6.0\Club.Core.AssemblyInfoInputs.cache
+F:\neww\ClubCore\obj\Debug\net6.0\Club.Core.AssemblyInfo.cs
+F:\neww\ClubCore\obj\Debug\net6.0\Club.Core.csproj.CoreCompileInputs.cache
+F:\neww\ClubCore\obj\Debug\net6.0\Club.Core.dll
+F:\neww\ClubCore\obj\Debug\net6.0\refint\Club.Core.dll
+F:\neww\ClubCore\obj\Debug\net6.0\Club.Core.pdb
+F:\neww\ClubCore\obj\Debug\net6.0\ref\Club.Core.dll
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\ClubCore\bin\Debug\net6.0\Club.Core.deps.json
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\ClubCore\bin\Debug\net6.0\Club.Core.dll
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\ClubCore\bin\Debug\net6.0\Club.Core.pdb
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\ClubCore\obj\Debug\net6.0\Club.Core.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\ClubCore\obj\Debug\net6.0\Club.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\ClubCore\obj\Debug\net6.0\Club.Core.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\ClubCore\obj\Debug\net6.0\Club.Core.AssemblyInfo.cs
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\ClubCore\obj\Debug\net6.0\Club.Core.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\ClubCore\obj\Debug\net6.0\Club.Core.dll
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\ClubCore\obj\Debug\net6.0\refint\Club.Core.dll
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\ClubCore\obj\Debug\net6.0\Club.Core.pdb
+D:\Users\User\Desktop\יעלוש שנה ב'\netcore\neww מעודכן\neww\ClubCore\obj\Debug\net6.0\ref\Club.Core.dll
